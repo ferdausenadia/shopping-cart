@@ -1,0 +1,5 @@
+You will develop an e-commerce shopping cart where users can add or remove items from a list of products.
+
+at least 4 products in the list
+products can be added successfully
+products can be removed from the cart
